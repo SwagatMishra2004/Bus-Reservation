@@ -11,25 +11,19 @@ A terminal-based **C application** that allows users to book and cancel bus tick
 ## 📸 Screenshots
 
 ### 🔹 Main Menu
-![Main Menu](screenshots/main_menu.png)
+![image](https://github.com/user-attachments/assets/7b139095-05c3-4f6f-b726-02e40a8c3b37)
 
 ### 🔹 Booking a Ticket
-![Booking Screenshot](screenshots/booking_ticket.png)
+![screenshots](https://github.com/user-attachments/assets/33be4714-3b7b-409e-8a0e-4c9abcdf040b)
+
+### 🔹 Booking Confirmation Email
+![screenshots](https://github.com/user-attachments/assets/131b5948-f1fe-4fa5-9324-7dee5f0ad3a9)
+
+### 🔹 Cancel a Ticket
+![screenshots](https://github.com/user-attachments/assets/7a3f15cc-2fc7-496b-9428-1519cc5a40bf)
 
 ### 🔹 Cancellation Confirmation Email
-![Email Screenshot](screenshots/email_notification.png)
-
----
-
-## 📂 Project Structure
-
-```plaintext
-.
-├── bus_reservation.c       # Main C program
-├── sendEmail.js            # Node.js script to send emails
-├── README.md               # Project Documentation
-└── screenshots/            # Add your screenshots here
-```
+![screenshot](https://github.com/user-attachments/assets/45f2979e-17a4-4581-9853-90fd10226e10)
 
 ---
 
@@ -122,12 +116,6 @@ Ticket booked successfully! Seat number: 1
 - Data is not saved across sessions
 - Email credentials are hardcoded (use environment variables or dotenv in real-world apps)
 - No encryption or secure storage
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
